@@ -1,4 +1,4 @@
-const shantera = (prefix, pushname) => {
+const gonzatera = (prefix, pushname) => {
     return `*Palabras especificas para que el bot interactue con ustedes*
 
 
